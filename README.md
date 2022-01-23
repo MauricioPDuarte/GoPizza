@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/MauricioPDuarte/ignews/blob/main/Telas.png"> 
+   <img src="https://github.com/MauricioPDuarte/GoPizza/Telas.png"> 
 </p>
 
 ## :page_with_curl: Sobre
