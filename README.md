@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/MauricioPDuarte/GoPizza/Telas.png"> 
+   <img src="https://github.com/MauricioPDuarte/GoPizza/blob/master/telas2.png"> 
 </p>
 
 ## :page_with_curl: Sobre
