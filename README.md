@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <img src="https://github.com/MauricioPDuarte/ignews/blob/main/MacBook%20Pro.png"> 
+   <img src="https://github.com/MauricioPDuarte/ignews/blob/main/Telas.png"> 
 </p>
 
 ## :page_with_curl: Sobre
